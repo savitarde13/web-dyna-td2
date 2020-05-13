@@ -4,9 +4,7 @@ use Ubiquity\core\postinstall\Display;
 use Ubiquity\log\Logger;
 use Ubiquity\themes\ThemesManager;
 
-/**
- * Controller IndexController
- **/
+
 class IndexController extends ControllerBase{
 
 	public function index(){
